@@ -6,9 +6,14 @@ https://developers.google.com/places/web-service/get-api-key
 
 
 <h2>Screenshots</h2>
-![](TravelDiary_Login.gif)</br>
-![](TravelDiary_New Travel.gif)</br>
-![](TravelDiary_Detail.gif)</br>
-![](TravelDiary_Menu.gif)</br>
-![](TravelDiary_Logout.gif)</br>
+
+ ![](TravelDiary_Login.gif)</br>
+
+ ![](TravelDiary_New Travel.gif)</br>
+
+ ![](TravelDiary_Detail.gif)</br>
+
+ ![](TravelDiary_Menu.gif)</br>
+
+ ![](TravelDiary_Logout.gif)</br>
 
