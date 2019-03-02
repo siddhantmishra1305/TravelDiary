@@ -1,0 +1,54 @@
+PODS:
+  - DatePicker (1.0.0):
+    - Extended (~> 1.0.4)
+  - Extended (1.0.5)
+  - GoogleMaps (3.0.3):
+    - GoogleMaps/Maps (= 3.0.3)
+  - GoogleMaps/Base (3.0.3)
+  - GoogleMaps/Maps (3.0.3):
+    - GoogleMaps/Base
+  - GooglePlaces (3.0.3):
+    - GoogleMaps/Base (= 3.0.3)
+  - IQKeyboardManagerSwift (6.0.4)
+  - SideMenu (5.0.3)
+  - TKSubmitTransition (2.0)
+
+DEPENDENCIES:
+  - DatePicker (= 1.0.0)
+  - GoogleMaps
+  - GooglePlaces
+  - IQKeyboardManagerSwift (= 6.0.4)
+  - SideMenu
+  - TKSubmitTransition (from `https://github.com/entotsu/TKSubmitTransition.git`, branch `swift4`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DatePicker
+    - Extended
+    - GoogleMaps
+    - GooglePlaces
+    - IQKeyboardManagerSwift
+    - SideMenu
+
+EXTERNAL SOURCES:
+  TKSubmitTransition:
+    :branch: swift4
+    :git: https://github.com/entotsu/TKSubmitTransition.git
+
+CHECKOUT OPTIONS:
+  TKSubmitTransition:
+    :commit: 29fac6072451a4def5cde567075bfc62a728bb1f
+    :git: https://github.com/entotsu/TKSubmitTransition.git
+
+SPEC CHECKSUMS:
+  DatePicker: 7eb10cf9d75d2ff975e3724763d4df8f2cf96ce1
+  Extended: c463225e0c29b2823847866c1b106827772ac678
+  GoogleMaps: fd5c9fa58871781b9fb94d4936f19c69fe60ce32
+  GooglePlaces: f09e76993c9c3ee4af8f4f7f535bb94d6aa3b649
+  IQKeyboardManagerSwift: 36dbe324b4f9793f5f41ba5227f3e7c76dfefd50
+  SideMenu: 1dcaabce84538c53325c287f7fe62999379a641c
+  TKSubmitTransition: 647b907508da58ba864141e3c4382442ec536d40
+
+PODFILE CHECKSUM: 9425f287b60c4844b592f7cb5a9365d37224a2dc
+
+COCOAPODS: 1.5.3
