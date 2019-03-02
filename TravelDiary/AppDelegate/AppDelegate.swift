@@ -27,7 +27,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func setUpGoogleMaps() {
-        let googleMapsApiKey = "AIzaSyAVYbp5awatazaRnfM_3WMal_c2NR-QZ-U"
+        let googleMapsApiKey = "YOUR_GOOGLE_API_KEY"
         GMSServices.provideAPIKey(googleMapsApiKey)
         GMSPlacesClient.provideAPIKey(googleMapsApiKey)
     }
