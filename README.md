@@ -9,11 +9,18 @@ https://developers.google.com/places/web-service/get-api-key
 
  ![](TravelDiary_Login.gif)</br>
 
- ![](TravelDiary_New Travel.gif)</br>
+ ![](TravelDiary_NewTravel.gif)</br>
 
  ![](TravelDiary_Detail.gif)</br>
 
  ![](TravelDiary_Menu.gif)</br>
 
  ![](TravelDiary_Logout.gif)</br>
+
+<H2>TODO</H2></br>
+1.Gallery</br>
+2.Checklist</br>
+3.Flight Reservation</br>
+4.Hotel Reservation</br>
+5.Settings</br>
 
